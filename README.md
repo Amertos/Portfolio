@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://amer-biberovic.netlify.app" target="_blank">
+    <a href="(https://amerr-portfolio.netlify.app/)" target="_blank">
       <img src="https://i.ibb.co/3WzgH8g/Amer-Dev-Banner.png" alt="Amer Dev Banner" width="100%">
     </a>
   <br />
@@ -34,7 +34,7 @@
   <br />
   
   <p align="center">
-    <a href="https://amer-biberovic.netlify.app">View Demo</a>
+    <a href="https://amerr-portfolio.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/Amertos/amer-biberovic-portfolio/issues">Report Bug</a>
     ·
