@@ -89,10 +89,7 @@
 <br/>
 
 <!-- ANIMATED STATUS BADGES -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=%3E+16+years+old;%3E+Full-Stack+Engineer;%3E+AI-Augmented+Builder;%3E+Hackathon+Champion;%3E+Cybersecurity+Learner;%3E+Building+the+future" alt="Typing SVG" style="max-width: 100%;">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=%3E+16+years+old;%3E+Full-Stack+Engineer;%3E+AI-Augmented+Builder;%3E+Hackathon+Champion;%3E+Cybersecurity+Learner;%3E+Building+the+future" alt="Typing SVG" style="max-width: 100%;">
 
 <br/>
 
@@ -437,7 +434,7 @@ timeline
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amer_Biberovic-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amer-biberovic-78099237b/)
 [![GitHub](https://img.shields.io/badge/Github-@Amertos-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amertos)
 [![Portfolio](https://img.shields.io/badge/Portfolio-LIVE-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://amer-biberovic.vercel.app)
-[![Cal.com](https://img.shields.io/badge/Cal.com-Schedule_a_call-8b5cf6?style=for-the-badge&logo=caldotcom&logoColor=white)](https://cal.com)
+[![Contact](https://img.shields.io/badge/Contact-Send_a_message-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amerbiberovic12@gmail.com)
 
 <br/>
 
@@ -486,7 +483,7 @@ Run this portfolio locally on your machine:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Amertos/portfolio.git
+git clone https://github.com/Amertos/Portfolio.git
 cd portfolio
 
 # 2. Install dependencies
@@ -500,7 +497,7 @@ echo "GEMINI_API_KEY=your_gemini_api_key_here" > .env.local
 npm run dev
 ```
 
-Your portfolio will be available at `http://localhost:5173` 🚀
+Your portfolio will be available at `http://localhost:3000` 🚀
 
 ### Build for Production
 
