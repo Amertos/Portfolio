@@ -193,7 +193,7 @@ gantt
     First lines of code                      :milestone, 2023-03, 0d
     Full-Stack Freelance                     :milestone, 2025-01, 0d
     Cybersecurity Specialization (CS50)      :milestone, 2025-06, 0d
-    🏆 1st Place — UniHackathon             :milestone, 2026-02, 0d
+    🏆 2st Place — UniHackathon             :milestone, 2026-02, 0d
     
     section 📚 Learning
     Self-Taught Journey                      :learn1, 2023-03, 2024-12
@@ -206,7 +206,7 @@ gantt
 
 | Achievement | Year | Impact |
 |:---|---:|:---|
-| 🥇 **1st Place — UniHackathon** | 2026 | Outbuilt university teams at 16 with Feynit (AI education platform) |
+| 🥇 **2st Place — UniHackathon** | 2026 | Outbuilt university teams at 16 with Feynit (AI education platform) |
 | 🛡️ **Harvard CS50 Cybersecurity** | 2025 | Network vulns, pentesting, cryptography |
 | 💼 **Freelance Projects** | 2025 | Multiple client projects delivered |
 | 🔰 **Coding Journey Started** | 2023 | From Python to production apps |
@@ -309,7 +309,7 @@ mindmap
 ├── Frontend : React 19 + TypeScript + Tailwind v4
 ├── AI Engine: Gemini API + Advanced Prompt Architecture
 ├── Backend  : Node.js + Supabase
-└── Impact   : 🏆 Won 1st Place at UniHackathon (2026)
+└── Impact   : 🏆 Won 2st Place at UniHackathon (2026)
 ```
 
 ### 🏭 PazarB2B — Industrial Marketplace
