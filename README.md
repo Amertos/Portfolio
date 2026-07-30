@@ -474,40 +474,7 @@ timeline
 
 Run this portfolio locally on your machine:
 
-### Prerequisites
-
-- **Node.js** (v18 or higher)
-- **npm** or **pnpm**
-
-### Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Amertos/Portfolio.git
-cd portfolio
-
-# 2. Install dependencies
-npm install
-
-# 3. Set up environment variables
-# Create .env.local with your Gemini API key:
-echo "GEMINI_API_KEY=your_gemini_api_key_here" > .env.local
-
-# 4. Run the development server
-npm run dev
-```
-
-Your portfolio will be available at `http://localhost:3000` 🚀
-
-### Build for Production
-
-```bash
-# Build the project
-npm run build
-
-# Start the production server
-npm start
-```
+https://amerbiberovic-portfolio.netlify.app/
 
 ### Project Structure
 
