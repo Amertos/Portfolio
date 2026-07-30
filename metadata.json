@@ -1,0 +1,8 @@
+{
+  "name": "Amer Biberovic Portfolio",
+  "description": "A high-end dark portfolio landing page for Amer Biberovic, featuring smooth animations and HLS video backgrounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
